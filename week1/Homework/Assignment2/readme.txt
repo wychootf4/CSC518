@@ -1,0 +1,1 @@
+I had included main function and test case in the code, please simply run the code and see the result in the command output.
