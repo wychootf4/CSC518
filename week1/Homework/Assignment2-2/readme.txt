@@ -1,0 +1,1 @@
+I had included the main function with test case, please simply run the code and see the result in the command line.
